@@ -49,3 +49,5 @@ Se você tiver ícones ou imagens que gostaria de adicionar ao repositório, sig
 Neste exemplo, incluímos ícones de redes sociais, navegação e ações como parte do conteúdo. Você pode inserir esses ícones facilmente em qualquer parte de um projeto para adicionar elementos visuais consistentes.
 
 Se você deseja visualizar o código HTML para inserir os ícones, o exemplo de como usá-los está logo abaixo de cada seção.
+
+Ps: Na verdade eu uso para os meus dockers e para meu IPTV hehehehe 
